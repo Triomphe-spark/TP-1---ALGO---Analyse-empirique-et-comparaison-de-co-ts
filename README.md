@@ -1,0 +1,2 @@
+# TP-1---ALGO---Analyse-empirique-et-comparaison-de-co-ts
+Dans ce TP, j'étudie la détection de cycles dans une liste chaînée. J'implémente 3 algorithmes résolvant ce problème de détection. Chacun utilise une stratégie différente pour détecter un cycle dans un chaînage. J'effectuerai ensuite une analyse empirique de leurs coûts en temps et en mémoire, pour comparer ces 3 algorithmes en terme d’efficacité
